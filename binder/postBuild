@@ -1,0 +1,5 @@
+#To run in shell script
+#!/bin/bash
+
+jupyter serverextension enable --sys-prefix voila
+jupyter nbextension enable --py widgetsnbextension
