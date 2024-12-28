@@ -2,5 +2,5 @@
 
 set -ex
 
-jupyter serverextension enable --sys-prefix voila
+jupyter server extension enable --sys-prefix voila
 jupyter nbextension enable --py widgetsnbextension
