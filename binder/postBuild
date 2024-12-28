@@ -3,4 +3,3 @@
 set -ex
 
 jupyter server extension enable --sys-prefix voila
-jupyter nbextension enable --py widgetsnbextension
